@@ -12,6 +12,10 @@ An exploratory data analysis of the 2024 World Happiness Report using Python, Pa
 ## Notebook
 - [WorldHappiness.ipynb](WorldHappiness.ipynb)
 
+![Happiness by Region](happiness_by_region_bar_chart.png)
+![GDP vs Happiness](Ladder_score_vs_log_gdp_per_capita.png)
+![Predicted vs Actual](actual_vs_predicted_happiness.png)
+
 ## Data Source
 - World Happiness Report 2024
 
